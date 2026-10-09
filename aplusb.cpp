@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    // 5 problemas
+    // 2 problemas
 
     int problemas;
     cout << "Cuantos problemas tiene que resolver Tudor" << endl;
